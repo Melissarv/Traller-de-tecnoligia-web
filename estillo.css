@@ -1,39 +1,88 @@
 header{
-    margin: 0mm;
-    color:rgb(51, 153, 144);
-        width:200px;
-        left:200px;
-        height: 200px;
-        border:chocolate;}
-     div#1 a{
-         color: aqua;
-         width: 5px;
-         padding: 100px;
-     }
-     #2 div a{
-         color: aqua;
-
-     }
-     img{
-         position:sticky;
-         width: 100px;
-         height: 100px;
-     }
-}
-
-footer{
-    width: 10px;
-    height: 110px;
-    float:none;
-    position:relative;
-    background-image:url(RobledoCakesLOGO.png)no-repeat bottom center #222;
-    background-size:cover;
-    margin:0px;
-    top: 100px;
-    color:burlywood ;}
-img{
-    width: 0,1px;
-    height: 0,1px;
+    background-color:cadetblue;
+    width: 1500px;
+    height: 200px;
+    display: block;
+    margin: 500px;
+    padding-top: 10px;
+    padding-right:10px;
+    margin-left: 0px;
+    margin-right:0px;
+    margin-bottom: 2000px;
     margin-top: 0px;
-    position: center;
+    position: fixed;
+    }
+
+div a{
+    background-color: rgb(71, 255, 209);
+    padding: 0px;
+    top: 50px;
+    bottom: 50px;
+    float:right;
+    float: left;
+    margin-left: 150px;
+    margin-right: 80px;
+    margin-bottom: 5px;
+    border: teal;}
+
+div button{
+    background-color: rgba(187, 240, 227, 0.938);
+    padding-left: 50px;
+    padding-right: 50px;
+   
+
 }
+    img.Logo2{
+        width: 80px;
+        height: 80px;
+        padding-top: 0,200px;
+        padding-left: 40px;
+        padding-bottom: 20px;
+        margin:auto;
+        display: block;
+        margin-top: 0.200px;
+        margin-left: 0px;
+        margin-right: 0px;}
+        
+
+     img.logo1{
+         width: 70px;
+         height: 70px;
+         padding: 1px;
+         margin:auto;
+         display: block;
+         padding-top: 40px;
+
+        
+     }
+body{
+    width: 1000px;
+    height: 100px;
+    top: auto;
+    bottom: auto;
+    padding-bottom: 1000px;
+   
+}
+footer{
+    top: 100px;
+    background-color:cadetblue;
+    width: 1500px;
+    height: 150px;
+    padding: 0px;
+    display: block;
+    margin-right:20px;
+    margin-left: 0px;
+    position:absolute;
+    top: 1000px;
+}
+div p{
+    display: block;
+    margin: 50px;
+    height: 50px;
+    color: #000;
+    padding-left: 652px;
+    display: inline;
+    bottom: 30px;
+}
+
+
